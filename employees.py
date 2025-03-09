@@ -2,7 +2,7 @@
 Student information for this assignment:
 
 Replace <FULL NAME> with your name.
-On my/our honor, <Daniel Pang> and <FULL NAME>, this
+On my/our honor, Daniel Pang and <FULL NAME>, this
 programming assignment is my own work and I have not provided this code to
 any other student.
 
